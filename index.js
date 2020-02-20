@@ -1,0 +1,3 @@
+/*
+The basic logic and interactions for index.html
+*/

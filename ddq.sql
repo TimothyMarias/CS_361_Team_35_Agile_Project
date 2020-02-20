@@ -1,0 +1,3 @@
+/*
+This file holds all the data definition querries for holding all the data in the database. 
+*/
